@@ -1,0 +1,2 @@
+# majn
+minesweeper
